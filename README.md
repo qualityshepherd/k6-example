@@ -1,4 +1,4 @@
-[![Codeship Status for qualityshepherd/k6-example](https://app.codeship.com/projects/751d70b1-0ddd-472e-adad-61b0ca94c77b/status?branch=master)](https://app.codeship.com/projects/423515)
+[![Codeship Status for qualityshepherd/k6-example](https://app.codeship.com/projects/751d70b1-0ddd-472e-adad-61b0ca94c77b/status?branch=main)](https://app.codeship.com/projects/423515)
 
 # K6 Example
 > Load/performance testing examples using [K6](https://k6.io/)
