@@ -1,0 +1,18 @@
+{
+  "name": "k6-example",
+  "version": "1.0.0",
+  "description": "K6 load/performance test examples...",
+  "scripts": {
+    "test": "npm run smoke && npm run load",
+    "smoke": "k6 run smokeTest.js",
+    "load": "k6 run loadTest.js"
+  },
+  "keywords": [
+    "k6",
+    "load",
+    "performance",
+    "test"
+  ],
+  "author": "brine",
+  "license": "MIT"
+}
