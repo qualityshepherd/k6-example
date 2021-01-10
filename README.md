@@ -12,6 +12,7 @@
 1. run 'em all: `npm test`
 1. run smoke test: `npm run smoke`
 1. run them manually: `k6 run smokeTest.js`
+1. [understand results](https://k6.io/docs/using-k6/metrics#built-in-metrics)
 
 
 ## Run on CI
